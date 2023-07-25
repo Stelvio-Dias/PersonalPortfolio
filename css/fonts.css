@@ -1,0 +1,11 @@
+/*Poppins normal*/
+@font-face {
+    font-family: 'poppins-regular';
+    src: url(../Poppins/Poppins-Regular.ttf)
+}
+
+/*Poppins Italic*/
+@font-face {
+    font-family: 'poppins-italic';
+    src: url(../Poppins/Poppins-Italic.ttf);
+}
